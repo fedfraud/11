@@ -1,0 +1,1580 @@
+BTC.D (Bitcoin Dominance) 6h Timeframe (Part 2)
+================================================================================
+Analysis Date: 2025-06-26 14:06:38 UTC
+User: fedfraud
+Data Source: TradingView - CRYPTOCAP:BTC.D
+Timeframe: 6h
+Total Candles Analyzed: 228
+Results for Candles 51 to 100 (out of last 100)
+Current BTC Dominance: 65.83%
+================================================================================
+
+GLOBAL METRICS:
+Global Hurst Exponent: 0.6842 (persistent)
+Average Complexity (PE): 0.9710
+Predictability: 0.0290
+EEMD - Number of IMFs: 5
+EEMD - Dominant IMF: 0
+GARCH Log-Likelihood: 8.8154
+GARCH Parameters: ω=0.004573, α=0.154434, β=0.780756
+HMM Regime Means: ['0.000092', '0.000094', '0.000071']
+HMM Regime Variances: ['0.000094', '0.000094', '6025188.312081']
+
+================================================================================
+
+PER-CANDLE ANALYSIS (Candles 51-100):
+--------------------------------------------------------------------------------
+
+Candle 51 - 2025-06-14 00:00:00
+Dominance: 64.66%
+SST-CWT Power: 360665.830417
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.865722
+WTC Max Coherence: 0.999131
+Kalman Filtered: 64.49%
+Kalman Innovation: 0.193704
+Kalman Variance: 0.308423
+Local Hurst: 0.5889
+Permutation Entropy: 0.9775
+Hilbert Amplitude: 64.67
+Hilbert Inst Freq: -0.000359
+Hilbert Phase Coherence: 0.9977
+Matrix Profile: 0.381363
+Anomaly Score: 0.1012
+Transfer Entropy (Dom→Volume): 0.001106
+Transfer Entropy (Volume→Dom): 0.000140
+Granger Causality (Dom→Volume): 0.7226
+Granger Causality (Volume→Dom): 0.5637
+GARCH Conditional Volatility: 0.002390
+GARCH Standardized Residuals: -0.050720
+HMM Current State: 1
+HMM State Probabilities: [0.4246, 0.5754, 0.0000]
+CVD Delta: 531562208.68
+CVD Cumulative: -23058655561.56
+CVD Delta %: 0.06%
+CVD Rolling (20): -1663091301.88
+Dominance Trend (5p): -0.1003%
+CVD Trend (5p): -5526547622.21
+----------------------------------------
+Candle 52 - 2025-06-14 06:00:00
+Dominance: 64.90%
+SST-CWT Power: 378571.703674
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.853326
+WTC Max Coherence: 0.999260
+Kalman Filtered: 64.53%
+Kalman Innovation: 0.407381
+Kalman Variance: 0.308423
+Local Hurst: 0.5895
+Permutation Entropy: 0.9709
+Hilbert Amplitude: 64.90
+Hilbert Inst Freq: 0.000120
+Hilbert Phase Coherence: 0.9992
+Matrix Profile: 0.402802
+Anomaly Score: 0.1122
+Transfer Entropy (Dom→Volume): 0.001634
+Transfer Entropy (Volume→Dom): 0.001094
+Granger Causality (Dom→Volume): 0.7024
+Granger Causality (Volume→Dom): 0.5203
+GARCH Conditional Volatility: 0.002218
+GARCH Standardized Residuals: 1.497485
+HMM Current State: 2
+HMM State Probabilities: [0.5710, 0.4290, 0.0000]
+CVD Delta: 12733934923.56
+CVD Cumulative: -10324720638.00
+CVD Delta %: 1.39%
+CVD Rolling (20): 15219732763.98
+Dominance Trend (5p): 0.1545%
+CVD Trend (5p): 9524922485.26
+----------------------------------------
+Candle 53 - 2025-06-14 12:00:00
+Dominance: 64.85%
+SST-CWT Power: 395403.285679
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.838105
+WTC Max Coherence: 0.999391
+Kalman Filtered: 64.56%
+Kalman Innovation: 0.328264
+Kalman Variance: 0.308423
+Local Hurst: 0.5895
+Permutation Entropy: 0.9746
+Hilbert Amplitude: 64.86
+Hilbert Inst Freq: 0.000508
+Hilbert Phase Coherence: 0.9968
+Matrix Profile: 0.332312
+Anomaly Score: 0.0762
+Transfer Entropy (Dom→Volume): 0.002046
+Transfer Entropy (Volume→Dom): 0.000623
+Granger Causality (Dom→Volume): 0.7004
+Granger Causality (Volume→Dom): 0.5130
+GARCH Conditional Volatility: 0.002450
+GARCH Standardized Residuals: -0.363400
+HMM Current State: 0
+HMM State Probabilities: [0.4260, 0.5740, 0.0000]
+CVD Delta: -2199274651.84
+CVD Cumulative: -12523995289.84
+CVD Delta %: -0.24%
+CVD Rolling (20): 29972687890.37
+Dominance Trend (5p): 0.0062%
+CVD Trend (5p): -3465298413.18
+----------------------------------------
+Candle 54 - 2025-06-14 18:00:00
+Dominance: 64.79%
+SST-CWT Power: 413991.839877
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.818697
+WTC Max Coherence: 0.999496
+Kalman Filtered: 64.58%
+Kalman Innovation: 0.236390
+Kalman Variance: 0.308423
+Local Hurst: 0.5901
+Permutation Entropy: 0.9706
+Hilbert Amplitude: 64.80
+Hilbert Inst Freq: 0.000008
+Hilbert Phase Coherence: 0.9999
+Matrix Profile: 0.243292
+Anomaly Score: 0.0308
+Transfer Entropy (Dom→Volume): 0.000395
+Transfer Entropy (Volume→Dom): 0.000788
+Granger Causality (Dom→Volume): 0.6995
+Granger Causality (Volume→Dom): 0.5049
+GARCH Conditional Volatility: 0.002295
+GARCH Standardized Residuals: -0.524436
+HMM Current State: 1
+HMM State Probabilities: [0.5697, 0.4303, 0.0000]
+CVD Delta: -3177342068.62
+CVD Cumulative: -15701337358.46
+CVD Delta %: -0.36%
+CVD Rolling (20): 20433776079.54
+Dominance Trend (5p): 0.0472%
+CVD Trend (5p): 2758995209.27
+----------------------------------------
+Candle 55 - 2025-06-15 00:00:00
+Dominance: 64.76%
+SST-CWT Power: 434279.213503
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.792442
+WTC Max Coherence: 0.999551
+Kalman Filtered: 64.60%
+Kalman Innovation: 0.181093
+Kalman Variance: 0.308423
+Local Hurst: 0.5900
+Permutation Entropy: 0.9690
+Hilbert Amplitude: 64.76
+Hilbert Inst Freq: 0.000165
+Hilbert Phase Coherence: 0.9990
+Matrix Profile: 0.306434
+Anomaly Score: 0.0630
+Transfer Entropy (Dom→Volume): 0.000499
+Transfer Entropy (Volume→Dom): 0.000721
+Granger Causality (Dom→Volume): 0.6999
+Granger Causality (Volume→Dom): 0.5054
+GARCH Conditional Volatility: 0.002189
+GARCH Standardized Residuals: -0.353864
+HMM Current State: 2
+HMM State Probabilities: [0.4273, 0.5727, 0.0000]
+CVD Delta: -1731269852.51
+CVD Cumulative: -17432607210.97
+CVD Delta %: -0.20%
+CVD Rolling (20): 54375584911.19
+Dominance Trend (5p): 0.1078%
+CVD Trend (5p): 6157610559.27
+----------------------------------------
+Candle 56 - 2025-06-15 06:00:00
+Dominance: 64.70%
+SST-CWT Power: 453943.178891
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.769597
+WTC Max Coherence: 0.999542
+Kalman Filtered: 64.61%
+Kalman Innovation: 0.099872
+Kalman Variance: 0.308423
+Local Hurst: 0.5884
+Permutation Entropy: 0.9690
+Hilbert Amplitude: 64.70
+Hilbert Inst Freq: -0.000063
+Hilbert Phase Coherence: 0.9996
+Matrix Profile: 0.361216
+Anomaly Score: 0.0909
+Transfer Entropy (Dom→Volume): 0.000267
+Transfer Entropy (Volume→Dom): 0.000390
+Granger Causality (Dom→Volume): 0.6998
+Granger Causality (Volume→Dom): 0.4994
+GARCH Conditional Volatility: 0.002072
+GARCH Standardized Residuals: -0.606503
+HMM Current State: 0
+HMM State Probabilities: [0.5684, 0.4316, 0.0000]
+CVD Delta: -3357897427.64
+CVD Cumulative: -20790504638.61
+CVD Delta %: -0.38%
+CVD Rolling (20): 50843996293.36
+Dominance Trend (5p): 0.0343%
+CVD Trend (5p): 2268150922.95
+----------------------------------------
+Candle 57 - 2025-06-15 12:00:00
+Dominance: 64.70%
+SST-CWT Power: 471583.281876
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.762062
+WTC Max Coherence: 0.999458
+Kalman Filtered: 64.62%
+Kalman Innovation: 0.088942
+Kalman Variance: 0.308423
+Local Hurst: 0.5876
+Permutation Entropy: 0.9653
+Hilbert Amplitude: 64.70
+Hilbert Inst Freq: 0.000083
+Hilbert Phase Coherence: 0.9995
+Matrix Profile: 0.333224
+Anomaly Score: 0.0767
+Transfer Entropy (Dom→Volume): 0.002016
+Transfer Entropy (Volume→Dom): 0.000929
+Granger Causality (Dom→Volume): 0.7040
+Granger Causality (Volume→Dom): 0.5164
+GARCH Conditional Volatility: 0.002013
+GARCH Standardized Residuals: -0.144245
+HMM Current State: 1
+HMM State Probabilities: [0.4286, 0.5714, 0.0000]
+CVD Delta: -98715123.41
+CVD Cumulative: -20889219762.02
+CVD Delta %: -0.01%
+CVD Rolling (20): 52702348015.36
+Dominance Trend (5p): -0.1992%
+CVD Trend (5p): -10564499124.02
+----------------------------------------
+Candle 58 - 2025-06-15 18:00:00
+Dominance: 64.59%
+SST-CWT Power: 492153.718849
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.763647
+WTC Max Coherence: 0.999290
+Kalman Filtered: 64.61%
+Kalman Innovation: -0.028090
+Kalman Variance: 0.308423
+Local Hurst: 0.5874
+Permutation Entropy: 0.9674
+Hilbert Amplitude: 64.59
+Hilbert Inst Freq: 0.000003
+Hilbert Phase Coherence: 1.0000
+Matrix Profile: 0.319778
+Anomaly Score: 0.0698
+Transfer Entropy (Dom→Volume): 0.001355
+Transfer Entropy (Volume→Dom): 0.001077
+Granger Causality (Dom→Volume): 0.7089
+Granger Causality (Volume→Dom): 0.5090
+GARCH Conditional Volatility: 0.001906
+GARCH Standardized Residuals: -1.021101
+HMM Current State: 2
+HMM State Probabilities: [0.5671, 0.4329, 0.0000]
+CVD Delta: -7799110584.58
+CVD Cumulative: -28688330346.61
+CVD Delta %: -0.65%
+CVD Rolling (20): 52811482435.91
+Dominance Trend (5p): -0.2675%
+CVD Trend (5p): -16164335056.77
+----------------------------------------
+Candle 59 - 2025-06-16 00:00:00
+Dominance: 64.50%
+SST-CWT Power: 514886.370521
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.765655
+WTC Max Coherence: 0.999039
+Kalman Filtered: 64.60%
+Kalman Innovation: -0.113622
+Kalman Variance: 0.308423
+Local Hurst: 0.5876
+Permutation Entropy: 0.9741
+Hilbert Amplitude: 64.50
+Hilbert Inst Freq: -0.000236
+Hilbert Phase Coherence: 0.9985
+Matrix Profile: 0.318760
+Anomaly Score: 0.0693
+Transfer Entropy (Dom→Volume): 0.001158
+Transfer Entropy (Volume→Dom): 0.000226
+Granger Causality (Dom→Volume): 0.7160
+Granger Causality (Volume→Dom): 0.5070
+GARCH Conditional Volatility: 0.001970
+GARCH Standardized Residuals: -0.829552
+HMM Current State: 0
+HMM State Probabilities: [0.4298, 0.5702, 0.0000]
+CVD Delta: -6310705804.32
+CVD Cumulative: -34999036150.93
+CVD Delta %: -0.53%
+CVD Rolling (20): 49383105105.47
+Dominance Trend (5p): -0.2950%
+CVD Trend (5p): -19297698792.46
+----------------------------------------
+Candle 60 - 2025-06-16 06:00:00
+Dominance: 64.53%
+SST-CWT Power: 537657.871165
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.767203
+WTC Max Coherence: 0.998760
+Kalman Filtered: 64.60%
+Kalman Innovation: -0.067041
+Kalman Variance: 0.308423
+Local Hurst: 0.5874
+Permutation Entropy: 0.9741
+Hilbert Amplitude: 64.54
+Hilbert Inst Freq: -0.000548
+Hilbert Phase Coherence: 0.9966
+Matrix Profile: 0.289222
+Anomaly Score: 0.0542
+Transfer Entropy (Dom→Volume): 0.002043
+Transfer Entropy (Volume→Dom): 0.001961
+Granger Causality (Dom→Volume): 0.7347
+Granger Causality (Volume→Dom): 0.5094
+GARCH Conditional Volatility: 0.001974
+GARCH Standardized Residuals: 0.145051
+HMM Current State: 1
+HMM State Probabilities: [0.5659, 0.4341, 0.0000]
+CVD Delta: 2567969741.71
+CVD Cumulative: -32431066409.22
+CVD Delta %: 0.21%
+CVD Rolling (20): 57326544071.82
+Dominance Trend (5p): -0.2264%
+CVD Trend (5p): -14998459198.25
+----------------------------------------
+Candle 61 - 2025-06-16 12:00:00
+Dominance: 64.80%
+SST-CWT Power: 557698.072499
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.770460
+WTC Max Coherence: 0.998564
+Kalman Filtered: 64.62%
+Kalman Innovation: 0.207837
+Kalman Variance: 0.308423
+Local Hurst: 0.5868
+Permutation Entropy: 0.9616
+Hilbert Amplitude: 64.81
+Hilbert Inst Freq: 0.000035
+Hilbert Phase Coherence: 0.9998
+Matrix Profile: 0.207124
+Anomaly Score: 0.0124
+Transfer Entropy (Dom→Volume): 0.000654
+Transfer Entropy (Volume→Dom): 0.000947
+Granger Causality (Dom→Volume): 0.7447
+Granger Causality (Volume→Dom): 0.5036
+GARCH Conditional Volatility: 0.001874
+GARCH Standardized Residuals: 2.076474
+HMM Current State: 2
+HMM State Probabilities: [0.4311, 0.5689, 0.0000]
+CVD Delta: 19786697740.88
+CVD Cumulative: -12644368668.33
+CVD Delta %: 1.61%
+CVD Rolling (20): 59354756216.51
+Dominance Trend (5p): 0.1061%
+CVD Trend (5p): 8146135970.28
+----------------------------------------
+Candle 62 - 2025-06-16 18:00:00
+Dominance: 64.76%
+SST-CWT Power: 580322.561322
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.772734
+WTC Max Coherence: 0.998519
+Kalman Filtered: 64.63%
+Kalman Innovation: 0.146602
+Kalman Variance: 0.308423
+Local Hurst: 0.5871
+Permutation Entropy: 0.9532
+Hilbert Amplitude: 64.76
+Hilbert Inst Freq: 0.000394
+Hilbert Phase Coherence: 0.9975
+Matrix Profile: 0.209104
+Anomaly Score: 0.0134
+Transfer Entropy (Dom→Volume): 0.000259
+Transfer Entropy (Volume→Dom): 0.001157
+Granger Causality (Dom→Volume): 0.7538
+Granger Causality (Volume→Dom): 0.5082
+GARCH Conditional Volatility: 0.002354
+GARCH Standardized Residuals: -0.385799
+HMM Current State: 0
+HMM State Probabilities: [0.5646, 0.4354, 0.0000]
+CVD Delta: -3456370751.10
+CVD Cumulative: -16100739419.44
+CVD Delta %: -0.25%
+CVD Rolling (20): 60286083941.77
+Dominance Trend (5p): 0.0660%
+CVD Trend (5p): 4788480342.59
+----------------------------------------
+Candle 63 - 2025-06-17 00:00:00
+Dominance: 64.74%
+SST-CWT Power: 602469.617289
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.772216
+WTC Max Coherence: 0.998554
+Kalman Filtered: 64.64%
+Kalman Innovation: 0.112182
+Kalman Variance: 0.308423
+Local Hurst: 0.5872
+Permutation Entropy: 0.9595
+Hilbert Amplitude: 64.74
+Hilbert Inst Freq: -0.000158
+Hilbert Phase Coherence: 0.9990
+Matrix Profile: 0.193044
+Anomaly Score: 0.0052
+Transfer Entropy (Dom→Volume): 0.002953
+Transfer Entropy (Volume→Dom): 0.001008
+Granger Causality (Dom→Volume): 0.7412
+Granger Causality (Volume→Dom): 0.4511
+GARCH Conditional Volatility: 0.002216
+GARCH Standardized Residuals: -0.263719
+HMM Current State: 1
+HMM State Probabilities: [0.4323, 0.5677, 0.0000]
+CVD Delta: -1723386087.30
+CVD Cumulative: -17824125506.73
+CVD Delta %: -0.12%
+CVD Rolling (20): 59794040834.84
+Dominance Trend (5p): 0.1541%
+CVD Trend (5p): 10864204839.88
+----------------------------------------
+Candle 64 - 2025-06-17 06:00:00
+Dominance: 64.77%
+SST-CWT Power: 622494.051509
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.772399
+WTC Max Coherence: 0.998529
+Kalman Filtered: 64.65%
+Kalman Innovation: 0.134668
+Kalman Variance: 0.308423
+Local Hurst: 0.5862
+Permutation Entropy: 0.9665
+Hilbert Amplitude: 64.78
+Hilbert Inst Freq: 0.000029
+Hilbert Phase Coherence: 0.9998
+Matrix Profile: 0.182890
+Anomaly Score: 0.0000
+Transfer Entropy (Dom→Volume): 0.001381
+Transfer Entropy (Volume→Dom): 0.001278
+Granger Causality (Dom→Volume): 0.6418
+Granger Causality (Volume→Dom): 0.4303
+GARCH Conditional Volatility: 0.002084
+GARCH Standardized Residuals: 0.117034
+HMM Current State: 2
+HMM State Probabilities: [0.5634, 0.4366, 0.0000]
+CVD Delta: 2793654033.58
+CVD Cumulative: -15030471473.15
+CVD Delta %: 0.20%
+CVD Rolling (20): 51976376150.02
+Dominance Trend (5p): 0.2755%
+CVD Trend (5p): 19968564677.78
+----------------------------------------
+Candle 65 - 2025-06-17 12:00:00
+Dominance: 64.78%
+SST-CWT Power: 644185.519670
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.775844
+WTC Max Coherence: 0.998403
+Kalman Filtered: 64.66%
+Kalman Innovation: 0.129087
+Kalman Variance: 0.308423
+Local Hurst: 0.5868
+Permutation Entropy: 0.9535
+Hilbert Amplitude: 64.78
+Hilbert Inst Freq: -0.000048
+Hilbert Phase Coherence: 0.9997
+Matrix Profile: 0.201612
+Anomaly Score: 0.0095
+Transfer Entropy (Dom→Volume): 0.001201
+Transfer Entropy (Volume→Dom): 0.002090
+Granger Causality (Dom→Volume): 0.6242
+Granger Causality (Volume→Dom): 0.4397
+GARCH Conditional Volatility: 0.001964
+GARCH Standardized Residuals: -0.079739
+HMM Current State: 0
+HMM State Probabilities: [0.4335, 0.5665, 0.0000]
+CVD Delta: 591521060.17
+CVD Cumulative: -14438950412.97
+CVD Delta %: 0.04%
+CVD Rolling (20): 18845984857.64
+Dominance Trend (5p): 0.2469%
+CVD Trend (5p): 17992115996.24
+----------------------------------------
+Candle 66 - 2025-06-17 18:00:00
+Dominance: 64.83%
+SST-CWT Power: 666987.651099
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.780431
+WTC Max Coherence: 0.998301
+Kalman Filtered: 64.68%
+Kalman Innovation: 0.164723
+Kalman Variance: 0.308423
+Local Hurst: 0.5859
+Permutation Entropy: 0.9422
+Hilbert Amplitude: 64.83
+Hilbert Inst Freq: -0.000156
+Hilbert Phase Coherence: 0.9990
+Matrix Profile: 0.195899
+Anomaly Score: 0.0066
+Transfer Entropy (Dom→Volume): 0.000864
+Transfer Entropy (Volume→Dom): 0.001291
+Granger Causality (Dom→Volume): 0.6062
+Granger Causality (Volume→Dom): 0.4383
+GARCH Conditional Volatility: 0.001864
+GARCH Standardized Residuals: 0.252943
+HMM Current State: 1
+HMM State Probabilities: [0.5622, 0.4378, 0.0000]
+CVD Delta: 3357291779.69
+CVD Cumulative: -11081658633.29
+CVD Delta %: 0.29%
+CVD Rolling (20): 6450449306.07
+Dominance Trend (5p): 0.0264%
+CVD Trend (5p): 1562710035.05
+----------------------------------------
+Candle 67 - 2025-06-18 00:00:00
+Dominance: 65.02%
+SST-CWT Power: 684617.737224
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.783194
+WTC Max Coherence: 0.998344
+Kalman Filtered: 64.71%
+Kalman Innovation: 0.338703
+Kalman Variance: 0.308423
+Local Hurst: 0.5861
+Permutation Entropy: 0.9373
+Hilbert Amplitude: 65.02
+Hilbert Inst Freq: 0.000168
+Hilbert Phase Coherence: 0.9989
+Matrix Profile: 0.300648
+Anomaly Score: 0.0601
+Transfer Entropy (Dom→Volume): 0.000782
+Transfer Entropy (Volume→Dom): 0.000814
+Granger Causality (Dom→Volume): 0.6066
+Granger Causality (Volume→Dom): 0.6009
+GARCH Conditional Volatility: 0.001790
+GARCH Standardized Residuals: 1.484579
+HMM Current State: 2
+HMM State Probabilities: [0.4347, 0.5653, 0.0000]
+CVD Delta: 13235346704.67
+CVD Cumulative: 2153688071.38
+CVD Delta %: 1.14%
+CVD Rolling (20): 22003331194.64
+Dominance Trend (5p): 0.2575%
+CVD Trend (5p): 18254427490.81
+----------------------------------------
+Candle 68 - 2025-06-18 06:00:00
+Dominance: 64.92%
+SST-CWT Power: 707972.811364
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.781189
+WTC Max Coherence: 0.998470
+Kalman Filtered: 64.73%
+Kalman Innovation: 0.203881
+Kalman Variance: 0.308423
+Local Hurst: 0.5858
+Permutation Entropy: 0.9373
+Hilbert Amplitude: 64.92
+Hilbert Inst Freq: 0.000503
+Hilbert Phase Coherence: 0.9968
+Matrix Profile: 0.283647
+Anomaly Score: 0.0514
+Transfer Entropy (Dom→Volume): 0.000638
+Transfer Entropy (Volume→Dom): 0.000042
+Granger Causality (Dom→Volume): 0.6404
+Granger Causality (Volume→Dom): 0.6125
+GARCH Conditional Volatility: 0.002012
+GARCH Standardized Residuals: -0.917559
+HMM Current State: 0
+HMM State Probabilities: [0.5611, 0.4389, 0.0000]
+CVD Delta: -7168700875.46
+CVD Cumulative: -5015012804.08
+CVD Delta %: -0.62%
+CVD Rolling (20): 4043684072.59
+Dominance Trend (5p): 0.1753%
+CVD Trend (5p): 12809112702.65
+----------------------------------------
+Candle 69 - 2025-06-18 12:00:00
+Dominance: 64.82%
+SST-CWT Power: 724117.733229
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.774104
+WTC Max Coherence: 0.998547
+Kalman Filtered: 64.74%
+Kalman Innovation: 0.091254
+Kalman Variance: 0.308423
+Local Hurst: 0.5865
+Permutation Entropy: 0.9373
+Hilbert Amplitude: 64.82
+Hilbert Inst Freq: -0.000282
+Hilbert Phase Coherence: 0.9982
+Matrix Profile: 0.313986
+Anomaly Score: 0.0669
+Transfer Entropy (Dom→Volume): 0.000978
+Transfer Entropy (Volume→Dom): 0.001415
+Granger Causality (Dom→Volume): 0.6369
+Granger Causality (Volume→Dom): 0.6141
+GARCH Conditional Volatility: 0.002036
+GARCH Standardized Residuals: -0.837189
+HMM Current State: 1
+HMM State Probabilities: [0.4358, 0.5642, 0.0000]
+CVD Delta: -6515273199.71
+CVD Cumulative: -11530286003.79
+CVD Delta %: -0.56%
+CVD Rolling (20): 6930046563.95
+Dominance Trend (5p): 0.0490%
+CVD Trend (5p): 3500185469.36
+----------------------------------------
+Candle 70 - 2025-06-18 18:00:00
+Dominance: 64.88%
+SST-CWT Power: 743723.284940
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.765453
+WTC Max Coherence: 0.998534
+Kalman Filtered: 64.75%
+Kalman Innovation: 0.142910
+Kalman Variance: 0.308423
+Local Hurst: 0.5868
+Permutation Entropy: 0.9387
+Hilbert Amplitude: 64.89
+Hilbert Inst Freq: 0.000001
+Hilbert Phase Coherence: 1.0000
+Matrix Profile: 0.340277
+Anomaly Score: 0.0803
+Transfer Entropy (Dom→Volume): 0.000797
+Transfer Entropy (Volume→Dom): 0.001447
+Granger Causality (Dom→Volume): 0.6335
+Granger Causality (Volume→Dom): 0.6086
+GARCH Conditional Volatility: 0.002035
+GARCH Standardized Residuals: 0.325540
+HMM Current State: 2
+HMM State Probabilities: [0.5599, 0.4401, 0.0000]
+CVD Delta: 4210901353.28
+CVD Cumulative: -7319384650.51
+CVD Delta %: 0.36%
+CVD Rolling (20): 16270833119.74
+Dominance Trend (5p): 0.1021%
+CVD Trend (5p): 7119565762.47
+----------------------------------------
+Candle 71 - 2025-06-19 00:00:00
+Dominance: 64.88%
+SST-CWT Power: 756842.286137
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.758498
+WTC Max Coherence: 0.998471
+Kalman Filtered: 64.77%
+Kalman Innovation: 0.129526
+Kalman Variance: 0.308423
+Local Hurst: 0.5868
+Permutation Entropy: 0.9422
+Hilbert Amplitude: 64.89
+Hilbert Inst Freq: 0.000008
+Hilbert Phase Coherence: 0.9999
+Matrix Profile: 0.295862
+Anomaly Score: 0.0576
+Transfer Entropy (Dom→Volume): 0.002750
+Transfer Entropy (Volume→Dom): 0.000816
+Granger Causality (Dom→Volume): 0.6362
+Granger Causality (Volume→Dom): 0.6076
+GARCH Conditional Volatility: 0.001939
+GARCH Standardized Residuals: -0.136675
+HMM Current State: 0
+HMM State Probabilities: [0.4370, 0.5630, 0.0000]
+CVD Delta: 18223172.17
+CVD Cumulative: -7301161478.34
+CVD Delta %: 0.00%
+CVD Rolling (20): 15757494083.22
+Dominance Trend (5p): 0.0544%
+CVD Trend (5p): 3780497154.95
+----------------------------------------
+Candle 72 - 2025-06-19 06:00:00
+Dominance: 64.85%
+SST-CWT Power: 771524.356162
+SST-CWT Dominant Freq: 0.007254
+WTC Avg Coherence: 0.753724
+WTC Max Coherence: 0.998403
+Kalman Filtered: 64.77%
+Kalman Innovation: 0.081689
+Kalman Variance: 0.308423
+Local Hurst: 0.5865
+Permutation Entropy: 0.9422
+Hilbert Amplitude: 64.85
+Hilbert Inst Freq: 0.000058
+Hilbert Phase Coherence: 0.9996
+Matrix Profile: 0.329962
+Anomaly Score: 0.0750
+Transfer Entropy (Dom→Volume): 0.002056
+Transfer Entropy (Volume→Dom): 0.000948
+Granger Causality (Dom→Volume): 0.6721
+Granger Causality (Volume→Dom): 0.6158
+GARCH Conditional Volatility: 0.001845
+GARCH Standardized Residuals: -0.442118
+HMM Current State: 1
+HMM State Probabilities: [0.5588, 0.4412, 0.0000]
+CVD Delta: -2198683725.44
+CVD Cumulative: -9499845203.78
+CVD Delta %: -0.21%
+CVD Rolling (20): 824875434.22
+Dominance Trend (5p): -0.1708%
+CVD Trend (5p): -11653533275.16
+----------------------------------------
+Candle 73 - 2025-06-19 12:00:00
+Dominance: 64.82%
+SST-CWT Power: 783620.728546
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.750699
+WTC Max Coherence: 0.998362
+Kalman Filtered: 64.78%
+Kalman Innovation: 0.044985
+Kalman Variance: 0.308423
+Local Hurst: 0.5870
+Permutation Entropy: 0.9372
+Hilbert Amplitude: 64.82
+Hilbert Inst Freq: -0.000279
+Hilbert Phase Coherence: 0.9982
+Matrix Profile: 0.402536
+Anomaly Score: 0.1120
+Transfer Entropy (Dom→Volume): 0.000267
+Transfer Entropy (Volume→Dom): 0.001831
+Granger Causality (Dom→Volume): 0.6759
+Granger Causality (Volume→Dom): 0.6150
+GARCH Conditional Volatility: 0.001794
+GARCH Standardized Residuals: -0.398303
+HMM Current State: 2
+HMM State Probabilities: [0.4381, 0.5619, 0.0000]
+CVD Delta: -1702117058.90
+CVD Cumulative: -11201962262.68
+CVD Delta %: -0.17%
+CVD Rolling (20): 1322033027.16
+Dominance Trend (5p): -0.0971%
+CVD Trend (5p): -6186949458.61
+----------------------------------------
+Candle 74 - 2025-06-19 18:00:00
+Dominance: 64.92%
+SST-CWT Power: 792840.114003
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.748817
+WTC Max Coherence: 0.998371
+Kalman Filtered: 64.79%
+Kalman Innovation: 0.139881
+Kalman Variance: 0.308423
+Local Hurst: 0.5870
+Permutation Entropy: 0.9279
+Hilbert Amplitude: 64.92
+Hilbert Inst Freq: -0.000111
+Hilbert Phase Coherence: 0.9993
+Matrix Profile: 0.683307
+Anomaly Score: 0.2552
+Transfer Entropy (Dom→Volume): 0.000770
+Transfer Entropy (Volume→Dom): 0.000209
+Granger Causality (Dom→Volume): 0.6794
+Granger Causality (Volume→Dom): 0.6096
+GARCH Conditional Volatility: 0.001746
+GARCH Standardized Residuals: 0.722748
+HMM Current State: 0
+HMM State Probabilities: [0.5577, 0.4423, 0.0000]
+CVD Delta: 5124706247.51
+CVD Cumulative: -6077256015.18
+CVD Delta %: 0.60%
+CVD Rolling (20): 9624081343.29
+Dominance Trend (5p): 0.0953%
+CVD Trend (5p): 5453029988.61
+----------------------------------------
+Candle 75 - 2025-06-20 00:00:00
+Dominance: 64.97%
+SST-CWT Power: 801058.294761
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.747881
+WTC Max Coherence: 0.998434
+Kalman Filtered: 64.81%
+Kalman Innovation: 0.176173
+Kalman Variance: 0.308423
+Local Hurst: 0.5870
+Permutation Entropy: 0.9248
+Hilbert Amplitude: 64.97
+Hilbert Inst Freq: -0.000055
+Hilbert Phase Coherence: 0.9997
+Matrix Profile: 0.568897
+Anomaly Score: 0.1969
+Transfer Entropy (Dom→Volume): 0.000428
+Transfer Entropy (Volume→Dom): 0.000597
+Granger Causality (Dom→Volume): 0.6825
+Granger Causality (Volume→Dom): 0.6369
+GARCH Conditional Volatility: 0.001756
+GARCH Standardized Residuals: 0.282357
+HMM Current State: 1
+HMM State Probabilities: [0.4392, 0.5608, 0.0000]
+CVD Delta: 2546761703.99
+CVD Cumulative: -3530494311.19
+CVD Delta %: 0.30%
+CVD Rolling (20): 13902112899.79
+Dominance Trend (5p): 0.0845%
+CVD Trend (5p): 3788890339.32
+----------------------------------------
+Candle 76 - 2025-06-20 06:00:00
+Dominance: 65.08%
+SST-CWT Power: 803370.252661
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.748673
+WTC Max Coherence: 0.998526
+Kalman Filtered: 64.83%
+Kalman Innovation: 0.268561
+Kalman Variance: 0.308423
+Local Hurst: 0.5865
+Permutation Entropy: 0.9072
+Hilbert Amplitude: 65.08
+Hilbert Inst Freq: -0.000012
+Hilbert Phase Coherence: 0.9999
+Matrix Profile: 0.417164
+Anomaly Score: 0.1195
+Transfer Entropy (Dom→Volume): 0.002729
+Transfer Entropy (Volume→Dom): 0.003024
+Granger Causality (Dom→Volume): 0.6887
+Granger Causality (Volume→Dom): 0.6730
+GARCH Conditional Volatility: 0.001704
+GARCH Standardized Residuals: 0.828700
+HMM Current State: 2
+HMM State Probabilities: [0.5566, 0.4434, 0.0000]
+CVD Delta: 6270399995.66
+CVD Cumulative: 2739905684.47
+CVD Delta %: 0.66%
+CVD Rolling (20): 23530410323.08
+Dominance Trend (5p): 0.1935%
+CVD Trend (5p): 10041067162.82
+----------------------------------------
+Candle 77 - 2025-06-20 12:00:00
+Dominance: 65.12%
+SST-CWT Power: 807635.718151
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.751883
+WTC Max Coherence: 0.998592
+Kalman Filtered: 64.86%
+Kalman Innovation: 0.286250
+Kalman Variance: 0.308423
+Local Hurst: 0.5859
+Permutation Entropy: 0.9148
+Hilbert Amplitude: 65.12
+Hilbert Inst Freq: 0.000195
+Hilbert Phase Coherence: 0.9988
+Matrix Profile: 0.377060
+Anomaly Score: 0.0990
+Transfer Entropy (Dom→Volume): 0.001696
+Transfer Entropy (Volume→Dom): 0.000211
+Granger Causality (Dom→Volume): 0.6949
+Granger Causality (Volume→Dom): 0.6903
+GARCH Conditional Volatility: 0.001741
+GARCH Standardized Residuals: 0.227533
+HMM Current State: 0
+HMM State Probabilities: [0.4403, 0.5597, 0.0000]
+CVD Delta: 2674599348.03
+CVD Cumulative: 5414505032.51
+CVD Delta %: 0.26%
+CVD Rolling (20): 26303724794.53
+Dominance Trend (5p): 0.2722%
+CVD Trend (5p): 14914350236.29
+----------------------------------------
+Candle 78 - 2025-06-20 18:00:00
+Dominance: 65.09%
+SST-CWT Power: 804175.454122
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.758615
+WTC Max Coherence: 0.998561
+Kalman Filtered: 64.88%
+Kalman Innovation: 0.224220
+Kalman Variance: 0.308423
+Local Hurst: 0.5856
+Permutation Entropy: 0.9328
+Hilbert Amplitude: 65.09
+Hilbert Inst Freq: -0.000051
+Hilbert Phase Coherence: 0.9997
+Matrix Profile: 0.422881
+Anomaly Score: 0.1224
+Transfer Entropy (Dom→Volume): 0.001764
+Transfer Entropy (Volume→Dom): 0.001115
+Granger Causality (Dom→Volume): 0.7019
+Granger Causality (Volume→Dom): 0.7519
+GARCH Conditional Volatility: 0.001688
+GARCH Standardized Residuals: -0.475594
+HMM Current State: 1
+HMM State Probabilities: [0.5555, 0.4445, 0.0000]
+CVD Delta: -2543869793.71
+CVD Cumulative: 2870635238.80
+CVD Delta %: -0.21%
+CVD Rolling (20): 31558965585.41
+Dominance Trend (5p): 0.2664%
+CVD Trend (5p): 14072597501.48
+----------------------------------------
+Candle 79 - 2025-06-21 00:00:00
+Dominance: 65.14%
+SST-CWT Power: 800516.562105
+SST-CWT Dominant Freq: 0.007254
+WTC Avg Coherence: 0.769670
+WTC Max Coherence: 0.998370
+Kalman Filtered: 64.91%
+Kalman Innovation: 0.253811
+Kalman Variance: 0.308423
+Local Hurst: 0.5856
+Permutation Entropy: 0.9503
+Hilbert Amplitude: 65.14
+Hilbert Inst Freq: -0.000188
+Hilbert Phase Coherence: 0.9988
+Matrix Profile: 0.584092
+Anomaly Score: 0.2046
+Transfer Entropy (Dom→Volume): 0.000469
+Transfer Entropy (Volume→Dom): 0.001915
+Granger Causality (Dom→Volume): 0.6937
+Granger Causality (Volume→Dom): 0.7555
+GARCH Conditional Volatility: 0.001667
+GARCH Standardized Residuals: 0.308320
+HMM Current State: 2
+HMM State Probabilities: [0.4413, 0.5587, 0.0000]
+CVD Delta: 3727081564.48
+CVD Cumulative: 6597716803.28
+CVD Delta %: 0.31%
+CVD Rolling (20): 41596752954.21
+Dominance Trend (5p): 0.2181%
+CVD Trend (5p): 12674972818.46
+----------------------------------------
+Candle 80 - 2025-06-21 06:00:00
+Dominance: 65.28%
+SST-CWT Power: 791485.802021
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.782888
+WTC Max Coherence: 0.997990
+Kalman Filtered: 64.94%
+Kalman Innovation: 0.369800
+Kalman Variance: 0.308423
+Local Hurst: 0.5851
+Permutation Entropy: 0.9665
+Hilbert Amplitude: 65.28
+Hilbert Inst Freq: -0.000288
+Hilbert Phase Coherence: 0.9982
+Matrix Profile: 0.848760
+Anomaly Score: 0.3396
+Transfer Entropy (Dom→Volume): 0.001973
+Transfer Entropy (Volume→Dom): 0.000209
+Granger Causality (Dom→Volume): 0.6182
+Granger Causality (Volume→Dom): 0.7217
+GARCH Conditional Volatility: 0.001634
+GARCH Standardized Residuals: 1.152663
+HMM Current State: 0
+HMM State Probabilities: [0.5545, 0.4455, 0.0000]
+CVD Delta: 9311928775.73
+CVD Cumulative: 15909645579.02
+CVD Delta %: 0.84%
+CVD Rolling (20): 48340711988.23
+Dominance Trend (5p): 0.3086%
+CVD Trend (5p): 19440139890.20
+----------------------------------------
+Candle 81 - 2025-06-21 12:00:00
+Dominance: 65.59%
+SST-CWT Power: 779187.899946
+SST-CWT Dominant Freq: 0.007320
+WTC Avg Coherence: 0.794010
+WTC Max Coherence: 0.997480
+Kalman Filtered: 65.00%
+Kalman Innovation: 0.645945
+Kalman Variance: 0.308423
+Local Hurst: 0.5848
+Permutation Entropy: 0.9690
+Hilbert Amplitude: 65.59
+Hilbert Inst Freq: 0.000253
+Hilbert Phase Coherence: 0.9984
+Matrix Profile: 1.087779
+Anomaly Score: 0.4615
+Transfer Entropy (Dom→Volume): 0.000089
+Transfer Entropy (Volume→Dom): 0.002202
+Granger Causality (Dom→Volume): 0.6084
+Granger Causality (Volume→Dom): 0.7414
+GARCH Conditional Volatility: 0.001758
+GARCH Standardized Residuals: 2.561028
+HMM Current State: 1
+HMM State Probabilities: [0.4424, 0.5576, 0.0000]
+CVD Delta: 19690473516.49
+CVD Cumulative: 35600119095.50
+CVD Delta %: 1.87%
+CVD Rolling (20): 48244487763.84
+Dominance Trend (5p): 0.5108%
+CVD Trend (5p): 32860213411.03
+----------------------------------------
+Candle 82 - 2025-06-21 18:00:00
+Dominance: 65.61%
+SST-CWT Power: 764112.784936
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.800479
+WTC Max Coherence: 0.997026
+Kalman Filtered: 65.06%
+Kalman Innovation: 0.605546
+Kalman Variance: 0.308423
+Local Hurst: 0.5849
+Permutation Entropy: 0.9709
+Hilbert Amplitude: 65.61
+Hilbert Inst Freq: 0.000420
+Hilbert Phase Coherence: 0.9974
+Matrix Profile: 1.457931
+Anomaly Score: 0.6503
+Transfer Entropy (Dom→Volume): 0.001520
+Transfer Entropy (Volume→Dom): 0.000768
+Granger Causality (Dom→Volume): 0.6007
+Granger Causality (Volume→Dom): 0.7218
+GARCH Conditional Volatility: 0.002449
+GARCH Standardized Residuals: 0.021504
+HMM Current State: 2
+HMM State Probabilities: [0.5535, 0.4465, 0.0000]
+CVD Delta: 1285360761.64
+CVD Cumulative: 36885479857.15
+CVD Delta %: 0.13%
+CVD Rolling (20): 52986219276.58
+Dominance Trend (5p): 0.4886%
+CVD Trend (5p): 31470974824.64
+----------------------------------------
+Candle 83 - 2025-06-22 00:00:00
+Dominance: 65.83%
+SST-CWT Power: 744766.226489
+SST-CWT Dominant Freq: 0.010980
+WTC Avg Coherence: 0.803584
+WTC Max Coherence: 0.996864
+Kalman Filtered: 65.13%
+Kalman Innovation: 0.769150
+Kalman Variance: 0.308423
+Local Hurst: 0.5847
+Permutation Entropy: 0.9770
+Hilbert Amplitude: 65.83
+Hilbert Inst Freq: 0.000251
+Hilbert Phase Coherence: 0.9984
+Matrix Profile: 1.462679
+Anomaly Score: 0.6527
+Transfer Entropy (Dom→Volume): 0.000671
+Transfer Entropy (Volume→Dom): 0.000920
+Granger Causality (Dom→Volume): 0.5931
+Granger Causality (Volume→Dom): 0.6839
+GARCH Conditional Volatility: 0.002267
+GARCH Standardized Residuals: 1.368762
+HMM Current State: 0
+HMM State Probabilities: [0.4434, 0.5566, 0.0000]
+CVD Delta: 13791065080.42
+CVD Cumulative: 50676544937.56
+CVD Delta %: 1.33%
+CVD Rolling (20): 68500670444.29
+Dominance Trend (5p): 0.7446%
+CVD Trend (5p): 47805909698.76
+----------------------------------------
+Candle 84 - 2025-06-22 06:00:00
+Dominance: 65.73%
+SST-CWT Power: 721047.100262
+SST-CWT Dominant Freq: 0.007190
+WTC Avg Coherence: 0.805009
+WTC Max Coherence: 0.997079
+Kalman Filtered: 65.19%
+Kalman Innovation: 0.597342
+Kalman Variance: 0.308423
+Local Hurst: 0.5844
+Permutation Entropy: 0.9751
+Hilbert Amplitude: 65.73
+Hilbert Inst Freq: 0.000895
+Hilbert Phase Coherence: 0.9944
+Matrix Profile: 1.355209
+Anomaly Score: 0.5979
+Transfer Entropy (Dom→Volume): 0.003048
+Transfer Entropy (Volume→Dom): 0.001103
+Granger Causality (Dom→Volume): 0.5975
+Granger Causality (Volume→Dom): 0.7726
+GARCH Conditional Volatility: 0.002441
+GARCH Standardized Residuals: -0.723775
+HMM Current State: 1
+HMM State Probabilities: [0.5525, 0.4475, 0.0000]
+CVD Delta: -6778753106.07
+CVD Cumulative: 43897791831.50
+CVD Delta %: -0.59%
+CVD Rolling (20): 58928263304.64
+Dominance Trend (5p): 0.5951%
+CVD Trend (5p): 37300075028.22
+----------------------------------------
+Candle 85 - 2025-06-22 12:00:00
+Dominance: 65.65%
+SST-CWT Power: 691704.974581
+SST-CWT Dominant Freq: 0.010833
+WTC Avg Coherence: 0.805266
+WTC Max Coherence: 0.997518
+Kalman Filtered: 65.23%
+Kalman Innovation: 0.456996
+Kalman Variance: 0.308423
+Local Hurst: 0.5843
+Permutation Entropy: 0.9662
+Hilbert Amplitude: 65.65
+Hilbert Inst Freq: -0.000183
+Hilbert Phase Coherence: 0.9989
+Matrix Profile: 1.301813
+Anomaly Score: 0.5706
+Transfer Entropy (Dom→Volume): 0.000224
+Transfer Entropy (Volume→Dom): 0.002033
+Granger Causality (Dom→Volume): 0.5872
+Granger Causality (Volume→Dom): 0.7721
+GARCH Conditional Volatility: 0.002365
+GARCH Standardized Residuals: -0.650821
+HMM Current State: 2
+HMM State Probabilities: [0.4444, 0.5556, 0.0000]
+CVD Delta: -6330871410.19
+CVD Cumulative: 37566920421.31
+CVD Delta %: -0.50%
+CVD Rolling (20): 52005870834.28
+Dominance Trend (5p): 0.3714%
+CVD Trend (5p): 21657274842.29
+----------------------------------------
+Candle 86 - 2025-06-22 18:00:00
+Dominance: 65.73%
+SST-CWT Power: 662274.394652
+SST-CWT Dominant Freq: 0.011444
+WTC Avg Coherence: 0.803394
+WTC Max Coherence: 0.997949
+Kalman Filtered: 65.28%
+Kalman Innovation: 0.491529
+Kalman Variance: 0.308423
+Local Hurst: 0.5838
+Permutation Entropy: 0.9723
+Hilbert Amplitude: 65.73
+Hilbert Inst Freq: 0.000506
+Hilbert Phase Coherence: 0.9968
+Matrix Profile: 1.283599
+Anomaly Score: 0.5613
+Transfer Entropy (Dom→Volume): 0.001131
+Transfer Entropy (Volume→Dom): 0.001786
+Granger Causality (Dom→Volume): 0.5721
+Granger Causality (Volume→Dom): 0.7626
+GARCH Conditional Volatility: 0.002278
+GARCH Standardized Residuals: 0.403891
+HMM Current State: 0
+HMM State Probabilities: [0.5515, 0.4485, 0.0000]
+CVD Delta: 7169510379.48
+CVD Cumulative: 44736430800.79
+CVD Delta %: 0.47%
+CVD Rolling (20): 55818089434.07
+Dominance Trend (5p): 0.1381%
+CVD Trend (5p): 9136311705.28
+----------------------------------------
+Candle 87 - 2025-06-23 00:00:00
+Dominance: 65.61%
+SST-CWT Power: 626636.237934
+SST-CWT Dominant Freq: 0.011444
+WTC Avg Coherence: 0.802683
+WTC Max Coherence: 0.998241
+Kalman Filtered: 65.31%
+Kalman Innovation: 0.329378
+Kalman Variance: 0.308423
+Local Hurst: 0.5838
+Permutation Entropy: 0.9717
+Hilbert Amplitude: 65.61
+Hilbert Inst Freq: 0.000175
+Hilbert Phase Coherence: 0.9989
+Matrix Profile: 1.007064
+Anomaly Score: 0.4203
+Transfer Entropy (Dom→Volume): 0.001527
+Transfer Entropy (Volume→Dom): 0.000689
+Granger Causality (Dom→Volume): 0.5667
+Granger Causality (Volume→Dom): 0.7621
+GARCH Conditional Volatility: 0.002154
+GARCH Standardized Residuals: -0.939684
+HMM Current State: 1
+HMM State Probabilities: [0.4454, 0.5546, 0.0000]
+CVD Delta: -10424976499.37
+CVD Cumulative: 34311454301.41
+CVD Delta %: -0.69%
+CVD Rolling (20): 32157766230.04
+Dominance Trend (5p): 0.0017%
+CVD Trend (5p): -2574025555.73
+----------------------------------------
+Candle 88 - 2025-06-23 06:00:00
+Dominance: 65.60%
+SST-CWT Power: 587416.941893
+SST-CWT Dominant Freq: 0.014254
+WTC Avg Coherence: 0.807322
+WTC Max Coherence: 0.998388
+Kalman Filtered: 65.34%
+Kalman Innovation: 0.284630
+Kalman Variance: 0.308423
+Local Hurst: 0.5844
+Permutation Entropy: 0.9746
+Hilbert Amplitude: 65.60
+Hilbert Inst Freq: 0.000388
+Hilbert Phase Coherence: 0.9976
+Matrix Profile: 0.775874
+Anomaly Score: 0.3024
+Transfer Entropy (Dom→Volume): 0.001320
+Transfer Entropy (Volume→Dom): 0.000640
+Granger Causality (Dom→Volume): 0.6081
+Granger Causality (Volume→Dom): 0.7767
+GARCH Conditional Volatility: 0.002171
+GARCH Standardized Residuals: -0.217772
+HMM Current State: 2
+HMM State Probabilities: [0.5505, 0.4495, 0.0000]
+CVD Delta: -1235547871.96
+CVD Cumulative: 33075906429.46
+CVD Delta %: -0.08%
+CVD Rolling (20): 38090919233.54
+Dominance Trend (5p): -0.2330%
+CVD Trend (5p): -17600638508.10
+----------------------------------------
+Candle 89 - 2025-06-23 12:00:00
+Dominance: 65.37%
+SST-CWT Power: 545195.278298
+SST-CWT Dominant Freq: 0.014509
+WTC Avg Coherence: 0.813386
+WTC Max Coherence: 0.998413
+Kalman Filtered: 65.34%
+Kalman Innovation: 0.030099
+Kalman Variance: 0.308423
+Local Hurst: 0.5843
+Permutation Entropy: 0.9809
+Hilbert Amplitude: 65.37
+Hilbert Inst Freq: 0.000198
+Hilbert Phase Coherence: 0.9988
+Matrix Profile: 0.476308
+Anomaly Score: 0.1496
+Transfer Entropy (Dom→Volume): 0.002353
+Transfer Entropy (Volume→Dom): 0.001100
+Granger Causality (Dom→Volume): 0.6064
+Granger Causality (Volume→Dom): 0.7713
+GARCH Conditional Volatility: 0.002042
+GARCH Standardized Residuals: -1.829241
+HMM Current State: 0
+HMM State Probabilities: [0.4463, 0.5537, 0.0000]
+CVD Delta: -21006790340.11
+CVD Cumulative: 12069116089.35
+CVD Delta %: -1.37%
+CVD Rolling (20): 23599402093.14
+Dominance Trend (5p): -0.3618%
+CVD Trend (5p): -31828675742.15
+----------------------------------------
+Candle 90 - 2025-06-23 18:00:00
+Dominance: 65.23%
+SST-CWT Power: 499666.251984
+SST-CWT Dominant Freq: 0.015625
+WTC Avg Coherence: 0.816292
+WTC Max Coherence: 0.998322
+Kalman Filtered: 65.33%
+Kalman Innovation: -0.112319
+Kalman Variance: 0.308423
+Local Hurst: 0.5842
+Permutation Entropy: 0.9785
+Hilbert Amplitude: 65.23
+Hilbert Inst Freq: -0.000263
+Hilbert Phase Coherence: 0.9983
+Matrix Profile: 0.377060
+Anomaly Score: 0.0990
+Transfer Entropy (Dom→Volume): 0.000195
+Transfer Entropy (Volume→Dom): 0.001986
+Granger Causality (Dom→Volume): 0.6063
+Granger Causality (Volume→Dom): 0.7896
+GARCH Conditional Volatility: 0.002423
+GARCH Standardized Residuals: -0.991970
+HMM Current State: 1
+HMM State Probabilities: [0.5495, 0.4505, 0.0000]
+CVD Delta: -12792045515.95
+CVD Cumulative: -722929426.60
+CVD Delta %: -0.84%
+CVD Rolling (20): 6596455223.90
+Dominance Trend (5p): -0.4178%
+CVD Trend (5p): -38289849847.91
+----------------------------------------
+Candle 91 - 2025-06-24 00:00:00
+Dominance: 65.28%
+SST-CWT Power: 451868.959327
+SST-CWT Dominant Freq: 0.018466
+WTC Avg Coherence: 0.817220
+WTC Max Coherence: 0.998123
+Kalman Filtered: 65.33%
+Kalman Innovation: -0.056586
+Kalman Variance: 0.308423
+Local Hurst: 0.5844
+Permutation Entropy: 0.9716
+Hilbert Amplitude: 65.28
+Hilbert Inst Freq: -0.000251
+Hilbert Phase Coherence: 0.9984
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.002206
+Transfer Entropy (Volume→Dom): 0.001827
+Granger Causality (Dom→Volume): 0.5902
+Granger Causality (Volume→Dom): 0.7801
+GARCH Conditional Volatility: 0.002435
+GARCH Standardized Residuals: 0.173435
+HMM Current State: 2
+HMM State Probabilities: [0.4473, 0.5527, 0.0000]
+CVD Delta: 4121306064.63
+CVD Cumulative: 3398376638.03
+CVD Delta %: 0.27%
+CVD Rolling (20): 10699538116.37
+Dominance Trend (5p): -0.4508%
+CVD Trend (5p): -41338054162.76
+----------------------------------------
+Candle 92 - 2025-06-24 06:00:00
+Dominance: 65.26%
+SST-CWT Power: 397869.850626
+SST-CWT Dominant Freq: 0.017663
+WTC Avg Coherence: 0.821112
+WTC Max Coherence: 0.998134
+Kalman Filtered: 65.32%
+Kalman Innovation: -0.066780
+Kalman Variance: 0.308423
+Local Hurst: 0.5837
+Permutation Entropy: 0.9743
+Hilbert Amplitude: 65.26
+Hilbert Inst Freq: 0.000077
+Hilbert Phase Coherence: 0.9995
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.000914
+Transfer Entropy (Volume→Dom): 0.000588
+Granger Causality (Dom→Volume): 0.5005
+Granger Causality (Volume→Dom): 0.7439
+GARCH Conditional Volatility: 0.002262
+GARCH Standardized Residuals: -0.224100
+HMM Current State: 0
+HMM State Probabilities: [0.5486, 0.4514, 0.0000]
+CVD Delta: -1473202873.94
+CVD Cumulative: 1925173764.09
+CVD Delta %: -0.09%
+CVD Rolling (20): 11425018967.87
+Dominance Trend (5p): -0.3510%
+CVD Trend (5p): -32386280537.32
+----------------------------------------
+Candle 93 - 2025-06-24 12:00:00
+Dominance: 65.29%
+SST-CWT Power: 348267.027414
+SST-CWT Dominant Freq: 0.023214
+WTC Avg Coherence: 0.824007
+WTC Max Coherence: 0.998475
+Kalman Filtered: 65.32%
+Kalman Innovation: -0.029178
+Kalman Variance: 0.308423
+Local Hurst: 0.5833
+Permutation Entropy: 0.9816
+Hilbert Amplitude: 65.29
+Hilbert Inst Freq: -0.000248
+Hilbert Phase Coherence: 0.9984
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.002046
+Transfer Entropy (Volume→Dom): 0.000351
+Granger Causality (Dom→Volume): 0.4755
+Granger Causality (Volume→Dom): 0.7490
+GARCH Conditional Volatility: 0.002119
+GARCH Standardized Residuals: 0.099385
+HMM Current State: 1
+HMM State Probabilities: [0.4482, 0.5518, 0.0000]
+CVD Delta: 2813643477.15
+CVD Cumulative: 4738817241.25
+CVD Delta %: 0.19%
+CVD Rolling (20): 15940779503.93
+Dominance Trend (5p): -0.3063%
+CVD Trend (5p): -28337089188.21
+----------------------------------------
+Candle 94 - 2025-06-24 18:00:00
+Dominance: 65.34%
+SST-CWT Power: 289917.862282
+SST-CWT Dominant Freq: 0.024621
+WTC Avg Coherence: 0.823698
+WTC Max Coherence: 0.998774
+Kalman Filtered: 65.32%
+Kalman Innovation: 0.026034
+Kalman Variance: 0.308423
+Local Hurst: 0.5829
+Permutation Entropy: 0.9765
+Hilbert Amplitude: 65.34
+Hilbert Inst Freq: 0.000002
+Hilbert Phase Coherence: 1.0000
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.001918
+Transfer Entropy (Volume→Dom): 0.000893
+Granger Causality (Dom→Volume): 0.4480
+Granger Causality (Volume→Dom): 0.8378
+GARCH Conditional Volatility: 0.001993
+GARCH Standardized Residuals: 0.268425
+HMM Current State: 2
+HMM State Probabilities: [0.5477, 0.4523, 0.0000]
+CVD Delta: 3762100344.55
+CVD Cumulative: 8500917585.79
+CVD Delta %: 0.31%
+CVD Rolling (20): 14578173600.97
+Dominance Trend (5p): -0.0264%
+CVD Trend (5p): -3568198503.56
+----------------------------------------
+Candle 95 - 2025-06-25 00:00:00
+Dominance: 65.57%
+SST-CWT Power: 237726.383366
+SST-CWT Dominant Freq: 0.029018
+WTC Avg Coherence: 0.831926
+WTC Max Coherence: 0.999002
+Kalman Filtered: 65.34%
+Kalman Innovation: 0.247274
+Kalman Variance: 0.308423
+Local Hurst: 0.5834
+Permutation Entropy: 0.9639
+Hilbert Amplitude: 65.57
+Hilbert Inst Freq: -0.000209
+Hilbert Phase Coherence: 0.9987
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.001543
+Transfer Entropy (Volume→Dom): 0.002281
+Granger Causality (Dom→Volume): 0.4553
+Granger Causality (Volume→Dom): 0.8591
+GARCH Conditional Volatility: 0.001898
+GARCH Standardized Residuals: 1.662699
+HMM Current State: 0
+HMM State Probabilities: [0.4491, 0.5509, 0.0000]
+CVD Delta: 15980528450.21
+CVD Cumulative: 24481446036.00
+CVD Delta %: 1.34%
+CVD Rolling (20): 28011940347.19
+Dominance Trend (5p): 0.3369%
+CVD Trend (5p): 25204375462.60
+----------------------------------------
+Candle 96 - 2025-06-25 06:00:00
+Dominance: 65.73%
+SST-CWT Power: 183809.149219
+SST-CWT Dominant Freq: 0.036932
+WTC Avg Coherence: 0.858452
+WTC Max Coherence: 0.999143
+Kalman Filtered: 65.38%
+Kalman Innovation: 0.383941
+Kalman Variance: 0.308423
+Local Hurst: 0.5833
+Permutation Entropy: 0.9657
+Hilbert Amplitude: 65.73
+Hilbert Inst Freq: 0.000802
+Hilbert Phase Coherence: 0.9950
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.000203
+Transfer Entropy (Volume→Dom): 0.003902
+Granger Causality (Dom→Volume): 0.5160
+Granger Causality (Volume→Dom): 0.8373
+GARCH Conditional Volatility: 0.002192
+GARCH Standardized Residuals: 0.991974
+HMM Current State: 1
+HMM State Probabilities: [0.5468, 0.4532, 0.0000]
+CVD Delta: 10867100005.93
+CVD Cumulative: 35348546041.93
+CVD Delta %: 0.96%
+CVD Rolling (20): 32608640357.45
+Dominance Trend (5p): 0.4520%
+CVD Trend (5p): 31950169403.90
+----------------------------------------
+Candle 97 - 2025-06-25 12:00:00
+Dominance: 65.68%
+SST-CWT Power: 132724.149439
+SST-CWT Dominant Freq: 0.047794
+WTC Avg Coherence: 0.888556
+WTC Max Coherence: 0.999202
+Kalman Filtered: 65.41%
+Kalman Innovation: 0.296585
+Kalman Variance: 0.308423
+Local Hurst: 0.5839
+Permutation Entropy: 0.9536
+Hilbert Amplitude: 65.68
+Hilbert Inst Freq: 0.000299
+Hilbert Phase Coherence: 0.9981
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.000138
+Transfer Entropy (Volume→Dom): 0.000371
+Granger Causality (Dom→Volume): 0.4641
+Granger Causality (Volume→Dom): 0.9304
+GARCH Conditional Volatility: 0.002223
+GARCH Standardized Residuals: -0.468607
+HMM Current State: 2
+HMM State Probabilities: [0.4500, 0.5500, 0.0000]
+CVD Delta: -3493836796.71
+CVD Cumulative: 31854709245.22
+CVD Delta %: -0.30%
+CVD Rolling (20): 26440204212.71
+Dominance Trend (5p): 0.4168%
+CVD Trend (5p): 29929535481.13
+----------------------------------------
+Candle 98 - 2025-06-25 18:00:00
+Dominance: 65.60%
+SST-CWT Power: 85712.668168
+SST-CWT Dominant Freq: 0.062500
+WTC Avg Coherence: 0.909414
+WTC Max Coherence: 0.999196
+Kalman Filtered: 65.43%
+Kalman Innovation: 0.188963
+Kalman Variance: 0.308423
+Local Hurst: 0.5838
+Permutation Entropy: 0.9278
+Hilbert Amplitude: 65.60
+Hilbert Inst Freq: 0.000524
+Hilbert Phase Coherence: 0.9967
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.000882
+Transfer Entropy (Volume→Dom): 0.004066
+Granger Causality (Dom→Volume): 0.4939
+Granger Causality (Volume→Dom): 0.9620
+GARCH Conditional Volatility: 0.002117
+GARCH Standardized Residuals: -0.697777
+HMM Current State: 0
+HMM State Probabilities: [0.5459, 0.4541, 0.0000]
+CVD Delta: -5853500187.88
+CVD Cumulative: 26001209057.33
+CVD Delta %: -0.48%
+CVD Rolling (20): 23130573818.53
+Dominance Trend (5p): 0.3061%
+CVD Trend (5p): 21262391816.09
+----------------------------------------
+Candle 99 - 2025-06-26 00:00:00
+Dominance: 65.76%
+SST-CWT Power: 46077.119458
+SST-CWT Dominant Freq: 0.081250
+WTC Avg Coherence: 0.921182
+WTC Max Coherence: 0.999161
+Kalman Filtered: 65.46%
+Kalman Innovation: 0.330663
+Kalman Variance: 0.308423
+Local Hurst: 0.5832
+Permutation Entropy: 0.9374
+Hilbert Amplitude: 65.76
+Hilbert Inst Freq: -0.000228
+Hilbert Phase Coherence: 0.9986
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.000665
+Transfer Entropy (Volume→Dom): 0.000127
+Granger Causality (Dom→Volume): 0.6080
+Granger Causality (Volume→Dom): 0.9594
+GARCH Conditional Volatility: 0.002072
+GARCH Standardized Residuals: 1.045222
+HMM Current State: 1
+HMM State Probabilities: [0.4509, 0.5491, 0.0000]
+CVD Delta: 11698700801.54
+CVD Cumulative: 37699909858.88
+CVD Delta %: 0.95%
+CVD Rolling (20): 31102193055.60
+Dominance Trend (5p): 0.4133%
+CVD Trend (5p): 29198992273.09
+----------------------------------------
+Candle 100 - 2025-06-26 06:00:00
+Dominance: 65.83%
+SST-CWT Power: 15900.147452
+SST-CWT Dominant Freq: 0.162500
+WTC Avg Coherence: 0.926368
+WTC Max Coherence: 0.999135
+Kalman Filtered: 65.49%
+Kalman Innovation: 0.373867
+Kalman Variance: 0.308423
+Local Hurst: 0.5832
+Permutation Entropy: 0.9436
+Hilbert Amplitude: 65.85
+Hilbert Inst Freq: 0.002380
+Hilbert Phase Coherence: 0.9850
+Matrix Profile: 0.402103
+Anomaly Score: 0.1118
+Transfer Entropy (Dom→Volume): 0.001350
+Transfer Entropy (Volume→Dom): 0.001366
+Granger Causality (Dom→Volume): 0.5094
+Granger Causality (Volume→Dom): 0.9723
+GARCH Conditional Volatility: 0.002129
+GARCH Standardized Residuals: 0.407209
+HMM Current State: 2
+HMM State Probabilities: [0.5450, 0.4550, 0.0000]
+CVD Delta: 1120129942.73
+CVD Cumulative: 38820039801.61
+CVD Delta %: 0.45%
+CVD Rolling (20): 22910394222.59
+Dominance Trend (5p): 0.2643%
+CVD Trend (5p): 14338593765.61
+----------------------------------------
+
+================================================================================
+End of Part 2
